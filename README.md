@@ -57,8 +57,8 @@ To summarize, policy iteration iteratively improves the policy by alternating be
 
 ## POLICY IMPROVEMENT FUNCTION
 ```py
-#developed by : Easwar J
-#register numeber: 212221230024
+#developed by : JAGAN A
+#register numeber: 212221230037
 ```
 
 ```py
